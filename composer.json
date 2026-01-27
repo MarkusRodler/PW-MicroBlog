@@ -9,7 +9,7 @@
     ],
     "require": {},
     "require-dev": {
-        "phpunit/phpunit": "5.*"
+        "phpunit/phpunit": "8.*"
     },
     "autoload": {
         "psr-4": { "Dark\\PW\\MicroBlog\\": ["src/", "tests/"] }
